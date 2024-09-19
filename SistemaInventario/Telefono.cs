@@ -22,5 +22,11 @@ namespace SistemaInventario
         {
             Console.WriteLine($"Telefono: {Nombre}, Camara: {Camara}, Precio: {Precio}");
         }
+
+        public override void Editar()
+        {
+            Console.WriteLine("Ingrese el nuevo valor de camara: ");
+            Camara = Console.ReadLine();
+        }
     }
 }

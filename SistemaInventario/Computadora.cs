@@ -22,5 +22,13 @@ namespace SistemaInventario
         {
             Console.WriteLine($"Computadora: {Nombre}, RAM: {RAM}, Precio: {Precio}");
         }
+
+        public override void Editar()
+        {
+            Console.WriteLine("Ingrese el nuevo valor de RAM: ");
+            RAM = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el nuevo valor de procesador: ");
+            Procesador = Console.ReadLine();
+        }
     }
 }

@@ -61,7 +61,7 @@ namespace SistemaInventario
 
         //Metodos
         public abstract void MostrarDetalles();
-
+        public abstract void Editar();
 
     }
 }

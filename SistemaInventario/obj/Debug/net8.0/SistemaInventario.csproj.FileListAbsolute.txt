@@ -12,3 +12,4 @@ F:\Repos\Clase #2 - Caso empresarial\SistemaInventario\SistemaInventario\obj\Deb
 F:\Repos\Clase #2 - Caso empresarial\SistemaInventario\SistemaInventario\obj\Debug\net8.0\SistemaInventario.pdb
 F:\Repos\Clase #2 - Caso empresarial\SistemaInventario\SistemaInventario\obj\Debug\net8.0\SistemaInventario.genruntimeconfig.cache
 F:\Repos\Clase #2 - Caso empresarial\SistemaInventario\SistemaInventario\obj\Debug\net8.0\ref\SistemaInventario.dll
+F:\Repos\Clase #2 - Caso empresarial\SistemaInventario\SistemaInventario\obj\Debug\net8.0\SistemaInventario.sourcelink.json
