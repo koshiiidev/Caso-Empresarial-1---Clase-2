@@ -10,8 +10,9 @@ namespace SistemaInventario
     {
         //Atributos
         public int Peso { get; set; }
-        public Accesorio(string nombre, decimal precio, string codigo) : base(nombre, precio, codigo)
+        public Accesorio(string nombre, decimal precio, string codigo, int peso) : base(nombre, precio, codigo)
         {
+            int Peso = peso;
         }
 
         public override void MostrarDetalles()

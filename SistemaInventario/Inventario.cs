@@ -61,7 +61,7 @@ namespace SistemaInventario
 
             foreach (Producto producto in Productos) 
             {
-                Console.WriteLine(producto.MostrarDetalles);
+                producto.MostrarDetalles();
             }
         }
     }
